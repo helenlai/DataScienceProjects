@@ -1,0 +1,1 @@
+The current folder includes a self-contained notebook for London House Prediction using Random Forest, Support Vector Machine, Multiclass Logistic Regression and K-NearestNeighbours, along with its powerpoint presentation and a full technical report.
