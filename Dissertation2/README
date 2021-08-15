@@ -1,0 +1,7 @@
+Content of the git repo:
+- synthetic dataset script
+- Detectron tools:
+    - modified trainet.py
+    - added utility for stopping point, metrics tracking and visualisation
+    - error analysis
+    
